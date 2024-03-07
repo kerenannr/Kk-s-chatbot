@@ -41,7 +41,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Screenshots
+### Demo
 Desktop            |  Mobile
 :-------------------------:|:-------------------------:
 ![Desktop][desktop]  |   ![Mobile][mobile]  
@@ -83,5 +83,5 @@ Charles Edwards - [https://charlesae.dev](https://charlesae.dev)
 [Typescript-url]: https://typescriptlang.org/
 [Typescript]:https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd
 [screenshot]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/gemini_banner.jpg
-[desktop]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/gemini_demo.gif
-[mobile]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/mobile_gemini_demo.gif 
+[desktop]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/desktop.gif
+[mobile]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/mobile.gif 
