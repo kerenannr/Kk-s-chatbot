@@ -5,7 +5,7 @@
 
 ![Gemini AI Demo][screenshot]
 
-## This project is a demonstration of an AI chatbot powered by Gemini AI, Google’s large language model, integrated seamlessly within a Next.js 14 application. You can test it out [here][Demonstration-url]
+## This project is a demonstration of an AI chatbot powered by Gemini AI, Google’s large language model, integrated seamlessly within a Next.js 14 application. I've documented the entire process [here][Article-url]! You can test it out [here][Demonstration-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,6 +80,7 @@ Charles Edwards - [https://charlesae.dev](https://charlesae.dev)
 [GoogleGemini-url]: https://gemini.google.com/app
 [Medium]: https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white
 [Medium-url]: https://medium.com/@CharlesAE
+[Article-url]: https://medium.com/technology-hits/lets-build-an-ai-chatbot-with-gemini-ai-in-next-js-14-fc74e5c3a70d
 [Demonstration-url]: https://gemini-pro-demo.vercel.app/
 [Typescript-url]: https://typescriptlang.org/
 [Typescript]:https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd
