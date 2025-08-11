@@ -3,12 +3,8 @@
 [![NextJS]][NextJS-url]
 ## About The Project
 
-![Gemini AI Demo][screenshot]
-
 ## This project is a demonstration of an AI chatbot powered by Gemini AI, Google’s large language model, integrated seamlessly within a Next.js 14 application. I've documented the entire process [here][Article-url]! You can test it out [here][Demonstration-url]
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 
@@ -38,27 +34,11 @@
     npm run dev
     ```
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Demo
 Desktop            |  Mobile
 :-------------------------:|:-------------------------:
 ![Desktop][desktop]  |   ![Mobile][mobile]  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-Charles Edwards - [https://charlesae.dev](https://charlesae.dev)
-
-[![twitter-shield]][twitter-url]
-
-[![linkedin-shield]][linkedin-url]
-
-[![Medium]][Medium-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
