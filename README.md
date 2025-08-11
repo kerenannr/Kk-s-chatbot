@@ -3,7 +3,7 @@
 [![NextJS]][NextJS-url]
 ## About The Project
 
-## This project is a demonstration of an AI chatbot powered by Gemini AI, Google’s large language model, integrated seamlessly within a Next.js 14 application. I've documented the entire process [here][Article-url]! You can test it out [here][Demonstration-url]
+#### This project is a demonstration of an AI chatbot powered by Gemini AI, Google’s large language model, integrated seamlessly within a Next.js 14 application. I've documented the entire process [here][Article-url]! You can test it out [here][Demonstration-url]
 
 
 ## Built With
