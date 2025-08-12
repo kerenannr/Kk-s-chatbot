@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col items-center p-8">
       <div className="w-full max-w-4xl">
-        <h1 className="mb-8 text-6xl font-bold text-center bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+        <h1 className="mb-8 text-6xl font-bold text-center bg-gradient-to-r from-purple-600 to-yellow-600 bg-clip-text text-transparent">
           KerenAnn chatbot
         </h1>
         <div className="bg-white rounded-2xl shadow-xl p-6">
